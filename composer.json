@@ -1,5 +1,5 @@
 {
-    "name": "irteza/laravel-menu",
+    "name": "syedirtaza786/irteza-laravel-menu",
     "description": "drag and drop menu generator like wordpress for laravel 5",
     "keywords": ["Laravel", "Menu", "Wordpress", "Builder"],
     "authors": [
@@ -33,6 +33,5 @@
             }
         }
     },
-    "minimum-stability": "dev",
     "prefer-stable": true
 }
